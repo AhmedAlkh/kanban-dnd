@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/kanban-dnd/static/css/main.073c9b0a.css",
-    "main.js": "/kanban-dnd/static/js/main.d4b3053d.js",
-    "static/js/787.395c4b5c.chunk.js": "/kanban-dnd/static/js/787.395c4b5c.chunk.js",
-    "static/media/logo.svg": "/kanban-dnd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/kanban-dnd/static/js/main.2ed3cb50.js",
     "index.html": "/kanban-dnd/index.html",
-    "main.073c9b0a.css.map": "/kanban-dnd/static/css/main.073c9b0a.css.map",
-    "main.d4b3053d.js.map": "/kanban-dnd/static/js/main.d4b3053d.js.map",
-    "787.395c4b5c.chunk.js.map": "/kanban-dnd/static/js/787.395c4b5c.chunk.js.map"
+    "main.2ed3cb50.js.map": "/kanban-dnd/static/js/main.2ed3cb50.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d4b3053d.js"
+    "static/js/main.2ed3cb50.js"
   ]
 }
